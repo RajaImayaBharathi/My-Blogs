@@ -4,7 +4,7 @@
 
 ![AWS DeepLens Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0ynbp18ig3rrt55jjy0q.png)
 
-####Service Name: AWS Deeplens
+**Service Name**: AWS Deeplens
 
 > _Bring machine learning with real-time fast computing and visual recognition._
 
